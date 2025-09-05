@@ -1,0 +1,12 @@
+{
+  "name": "nodejs_intro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "web dev mastery",
+  "license": "ISC",
+  "keywords": [],
+  "description": ""
+}
